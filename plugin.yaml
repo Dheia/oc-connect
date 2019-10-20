@@ -1,0 +1,6 @@
+plugin:
+    name: 'codecycler.connect::lang.plugin.name'
+    description: 'codecycler.connect::lang.plugin.description'
+    author: Codecycler
+    icon: oc-icon-link
+    homepage: ''

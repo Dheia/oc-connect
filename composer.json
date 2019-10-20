@@ -1,0 +1,6 @@
+{
+    "require": {
+        "nuwave/lighthouse": "4.5.2",
+        "mll-lab/laravel-graphql-playground": "1.1.0"
+    }
+}
